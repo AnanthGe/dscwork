@@ -1,0 +1,7 @@
+#' This is the ignore file for the JHU capstone project. Want to track 
+#' and commit code files only. Will have to ignore data files, zip files 
+#' etc. 
+
+*.txt
+*.zip
+1
